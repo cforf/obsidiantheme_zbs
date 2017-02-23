@@ -206,7 +206,7 @@ local colors = {
     Blue        = H'0066FF',    -- semi-blue (keywords)
     Purple      = H'A6E22E',    -- light-grass-green
   },
-  ObsidianTheme = {
+  ObsidianTheme = { -- contributed by cforf
     Background  = H'2C4152',
     CurrentLine = H'344d61',
     Selection   = H'000000',
