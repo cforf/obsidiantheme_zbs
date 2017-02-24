@@ -3,7 +3,7 @@ Obsidian Theme
 
 This theme is based on Obsidian theme for Flash Develop (by Sebastien Benard, deepnight.net)
 
-https://raw.githubusercontent.com/cforf/obsidiantheme_zbs/master/code.png
+![screenshot](https://raw.githubusercontent.com/cforf/obsidiantheme_zbs/master/code.png)
 
 Install:
 
