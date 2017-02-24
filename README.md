@@ -10,4 +10,5 @@ Install:
 
 editor.fontname = "Consolas"
 editor.fontsize = 14 -- or any what's you want
+
 styles = loadfile('cfg/tomorrow.lua')('ObsidianTheme')
