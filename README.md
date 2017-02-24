@@ -3,6 +3,8 @@ Obsidian Theme
 
 This theme is based on Obsidian theme for Flash Develop (by Sebastien Benard, deepnight.net)
 
+obsidiantheme_zbs/code.png
+
 Install:
 
 1. Paste tomorrow.lua file into ZeroBraneStudio\cfg folder
