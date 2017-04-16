@@ -6,7 +6,7 @@ This theme is based on Obsidian theme for Flash Develop (by Sebastien Benard, de
 Install:
 1. Paste tomorrow.lua file into ZeroBraneStudio\cfg folder
 
-2. Add in user.lua file next:
+2. Add in user.lua (Edit->Preferences->Settings:User) file next:
 
 editor.fontname = "Consolas"
 editor.fontsize = 14 -- or any what's you want
